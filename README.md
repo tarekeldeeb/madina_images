@@ -1,5 +1,6 @@
 # Madina Images
-Scanned Images from Al Madina Quran, compressed 
+Images from Al Madina Quran, compressed.
+Images are based on: https://github.com/quran/quran.com-images
 
 - Image size: 1024 x 1656
 - Compression: zopflipng
