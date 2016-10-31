@@ -3,7 +3,7 @@ Images from Al Madina Quran, compressed.
 Images are based on: https://github.com/quran/quran.com-images
 
 - Image size: 1024 x 1656
-- Compression: zopflipng
+- Compression: zopflipng (https://github.com/google/zopfli)
 - Percentage of original: ~76%
 - File size: <100KB
 - Bit depth: 4 (Grey scale)
