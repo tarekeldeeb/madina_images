@@ -1,2 +1,2 @@
-# madina_images
+# Madina Images
 Scanned Images from Al Madina Quran, compressed 
